@@ -1,6 +1,6 @@
 # highlightTextInInput
-realtime highlight Text witch is not acceptable In Input.
-you can add custom RegEx to check in input. if unewanted text write then that text will be marked.
+realtime highlight Text witch is not acceptable In Input.\
+you can add custom RegEx to check in input. if unewanted text write then that text will be marked.\
 you can use it with Formik.
 
 ![Alt text](src/assets/test.png)
@@ -8,7 +8,7 @@ you can use it with Formik.
 
 # used library
 
-[react-highlight-within-textarea](https://bonafideduck.github.io/react-highlight-within-textarea/)
+[react-highlight-within-textarea](https://bonafideduck.github.io/react-highlight-within-textarea/)\
 [draft-js](https://github.com/facebookarchive/draft-js)
 
 # Getting Started with Create React App
