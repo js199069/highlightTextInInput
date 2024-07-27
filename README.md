@@ -1,5 +1,9 @@
 # highlightTextInInput
-realtime highlight Text witch is not acceptable In Input
+realtime highlight Text witch is not acceptable In Input.
+you can add custom RegEx to check in input. if unewanted text write then that text will be marked.
+you can use it with Formik.
+
+![Alt text](src/assets/test.png)
 
 # Getting Started with Create React App
 
