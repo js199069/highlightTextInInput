@@ -1,0 +1,30 @@
+.contianer_main{
+  margin: 50px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.editor_single .DraftEditor-root {
+  border: 1px solid #cbcbcb;
+  border-radius: 5px;
+  height: 100px;
+  width: 50%;
+  max-width: 50%;
+  resize: none !important;
+  white-space: nowrap !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+  line-height: normal;
+}
+
+.editor_single .DraftEditor-root .public-DraftEditorPlaceholder-root {
+  padding: 10px 8px 2px 8px;
+  font-size: 15px;
+}
+
+.editor_single .DraftEditor-root .DraftEditor-editorContainer .public-DraftEditor-content .public-DraftStyleDefault-block {
+  margin-top: 0 !important;
+  padding: 10px 8px 2px 8px;
+  font-size: 16px;
+}
